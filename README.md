@@ -1,6 +1,6 @@
+![MasterHead](https://github.com/PROGRAMMINGWITHUSMAN/PROGRAMMINGWITHUSMAN/blob/main/hi!%20iam%20muhammad%20usman%20ghani.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman Ghani</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
-![MasterHead](https://github.com/PROGRAMMINGWITHUSMAN/PROGRAMMINGWITHUSMAN/blob/main/hi!%20iam%20muhammad%20usman%20ghani.png)
 <img align="right" alt="coding" width="400" src="https://codecup.cloud/agency/img/script-team.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=programmingwithusman&label=Profile%20views&color=0e75b6&style=flat" alt="programmingwithusman" /> </p>
