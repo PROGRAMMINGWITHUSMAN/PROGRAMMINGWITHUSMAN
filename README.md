@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/PROGRAMMINGWITHUSMAN/PROGRAMMINGWITHUSMAN/blob/main/hi!%20iam%20muhammad%20usman%20ghani.png)
+![MasterHead](https://github.com/PROGRAMMINGWITHUSMAN/PROGRAMMINGWITHUSMAN/blob/main/hi!%20iam%20muhammad%20usman%20ghani.png)
 <h1 align="center">Hi 👋, I'm Muhammad Usman Ghani</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://codecup.cloud/agency/img/script-team.gif">
